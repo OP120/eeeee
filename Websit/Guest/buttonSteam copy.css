@@ -1,0 +1,19 @@
+/*.ms-5 {
+    margin-left: 4rem!important;
+}
+.ms-2 {
+    margin-left: 0.2rem!important;
+}
+/* .mx-2 {
+    margin-right: 3.5rem!important;
+    margin-left: 4.5rem!important;
+}
+.ratio-16x9 {
+    @include media-breakpoint-up(md) {
+      --bs-aspect-ratio: 50%;
+    }
+}
+body{
+    /* background: linear-gradient(-160deg,  #F8B195,#F67280,#C06C84,#6C5B7B,#355C7D ); 
+    background: linear-gradient(-1deg,  #99B898  , #FECEAB ,  #FF847C  , #E84A5F  , #2A363B );
+}*/

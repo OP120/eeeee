@@ -1,0 +1,27 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+.bg-accent{
+  background-color: rgb(255, 255, 255);
+  height: 400px;
+  
+  width: 1903px;
+}
+.mt-d5{
+  margin-top: 5rem!important;
+}
+/* .bg-darker{
+  background-color: rgb(40, 40, 40);
+  width: 1903px;
+  height: 600px;
+} */
+.mt-d1 {
+  margin-top: 1rem;
+}
+body,html {
+  /* background: linear-gradient(-160deg,  #F8B195,#F67280,#C06C84,#6C5B7B,#355C7D ); */
+  /* filter: blur(8px);
+  -webkit-filter: blur(8px);
+  background-repeat: no-repeat; */
+  background: linear-gradient(-1deg,   #F18C8E ,  #F0B7A4  , #F1D1B5 ,  #568EA6,   #305F72 );
+}
